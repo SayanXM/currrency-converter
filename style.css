@@ -5,7 +5,7 @@ body {
 .container {
   min-height: 100vh;
   font-family: "DM Sans", sans-serif;
-  background-color: rgb(228, 219, 231);
+  background-color: rgb(232, 217, 237);
   max-width: 80vw;
   margin: auto;
 }
@@ -104,7 +104,7 @@ nav {
   font-weight: 900;
   display: flex;
   font-size: 20px;
-  background-color: rgb(232, 195, 242);
+  background-color: rgb(214, 127, 238);
   padding: 23px;
 }
 
